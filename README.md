@@ -11,14 +11,14 @@ notes/pfps-analysis.text -- pfps notes
 ### pfps 2016 tests
 
 * manifest.ttl fixed up
-* Source: tests/exists-pfps-diff
+* Source: tests/other/exists-pfps-diff
 
-[tests/exists-pfps/](tests/exists-pfps/)
+[tests/otherexists-pfps/](tests/exists-pfps/)
 
 ### Tests from SPARQL 1.1 (rdf-tests)
 
-[tests/exists-sparql11/](tests/exists-sparql11/)
+[tests/other/exists-sparql11/](tests/other/exists-sparql11/)
 
-### Test of EXISTS with FILTER
+### Test by issue
 
-[tests/exists-filter/](tests/exists-filter/)
+[tests/](tests/)
